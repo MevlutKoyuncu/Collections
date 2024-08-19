@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\Mevlüt\source\repos\Koleksiyonlar\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
